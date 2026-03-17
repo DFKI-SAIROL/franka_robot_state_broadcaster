@@ -30,7 +30,7 @@
 #include <realtime_tools/realtime_publisher.hpp>
 
 #include "franka_msgs/msg/franka_robot_state.hpp"
-#include "franka_robot_state_broadcaster/franka_robot_state_broadcaster_parameters.hpp"
+#include "franka_robot_state_broadcaster_parameters.hpp"
 #include "franka_semantic_components/franka_robot_state.hpp"
 
 namespace franka_robot_state_broadcaster {
